@@ -1,4 +1,7 @@
 {
 	"email": "foo@example.com",
-	"message": "Edit "
+	"message": "Edit ",
+	"post": [
+		{}
+	]
 }
