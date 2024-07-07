@@ -1,8 +1,16 @@
 {
 	"post": [
 		{
+			"post_title": "post prova non funge",
+			"post_text": "hey"
+		},
+		{
 			"post_title": "Post di prova",
 			"post_text": "Testo di prova del post di prova. Prova."
 		}
+	],
+	"hobby": [
+		"Eating",
+		"Web design"
 	]
 }
