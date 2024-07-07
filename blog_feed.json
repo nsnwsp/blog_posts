@@ -4,5 +4,7 @@
 			"post_title": "Post creato",
 			"post_text": "Prova prova prov"
 		}
-	]
+	],
+	"email": "foo@example.com",
+	"message": "edited"
 }
