@@ -3,6 +3,14 @@
 		{
 			"post_title": "Post creato",
 			"post_text": "Prova prova prov"
+		},
+		{
+			"post_title": "jack",
+			"post_text": "jones"
+		},
+		{
+			"post_title": "red",
+			"post_text": "toby"
 		}
 	],
 	"email": "foo@example.com",
