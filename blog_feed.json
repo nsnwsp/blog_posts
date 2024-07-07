@@ -1,1 +1,8 @@
-
+{
+	"post": [
+		{
+			"post_title": "My first post",
+			"post_text": "Yes, but it is just for testing porposes, so does it really count?"
+		}
+	]
+}
