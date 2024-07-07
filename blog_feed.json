@@ -3,7 +3,8 @@
 	"message": "Edit ",
 	"post": [
 		{
-			"post_title": "Post crea"
+			"post_title": "Post creato",
+			"post_text": "P"
 		}
 	]
 }
