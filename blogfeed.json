@@ -13,11 +13,6 @@
 			"post_tags": "#test #cool"
 		},
 		{
-			"post_title": "2nd post but reversed",
-			"post_subtitle": "seventh of july, 2024",
-			"post_text": "Yeah, it should be *before* the first one. FILO is the way."
-		},
-		{
 			"post_title": "Yet another one, of test posts I mean.",
 			"post_subtitle": "fifteen of july, 2024",
 			"post_tags": "#test #finishing",
