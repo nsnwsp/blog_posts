@@ -4,7 +4,7 @@
 			"post_title": "Just wanted to try to publish a post from mobile.",
 			"post_subtitle": "sixteen of july, 2024",
 			"post_tags": "#mobile #blogging",
-			"post_text": "Ciao scusami ero convinto di minuti la pasta fredda con fagioli e riso del cinese al telefono &egrave; anche i valori professionale nel senso che non ce stone &egrave; la mail. <br />\n<h3>Paragraph</h3>\nNo Markdown compativility I guess. Maybe should be fixed."
+			"post_text": "Ciao scusami ero convinto di minuti la pasta fredda con fagioli e riso del cinese al telefono &egrave; anche i valori professionale nel senso che non ce stone &egrave; la mail. \n\n### Paragraph\nNo Markdown compativility I guess. Maybe should be fixed.\n\n![](https://cdn.jsdelivr.net/gh/nsnwsp/blog_posts@68933f72ce31b231d22ba9fa58f747d33024dfc9/images/pasted-image-1721144923452.jpeg)\n\nNow markdown is working. Pretty good BTW, it also support copy&paste and automatically uploading. Impressive"
 		},
 		{
 			"post_title": "Post title, just to test it out",
